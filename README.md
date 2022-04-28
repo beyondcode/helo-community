@@ -1,6 +1,6 @@
 ![HELO](https://usehelo.com/images/social.png)
 
-# HELO Community
+# HELO email testing
 
-This repository acts as a community forum for [HELO](https://usehelo.com) questions, feature ideas, and bug reports. To start a thread, please open an [issue](https://github.com/beyondcode/helo-community/issues).
+Please contact us via the support email address at [HELO](https://usehelo.com).
 
